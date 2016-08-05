@@ -1,0 +1,30 @@
+_repo: The-Sisters-In-Law--A-Novel-of-Our-Time_8535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atherton, Gertrude Franklin Horn
+    aliases:
+    - Horn, Gertrude Franklin
+    - Lin, Frank
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '263'
+    url: http://www.gutenberg.org/2009/agents/263
+    wikipedia: http://en.wikipedia.org/wiki/Gertrude_Atherton
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcsh 'France -- Fiction'
+- GITenberg
+title: 'The Sisters-In-Law: A Novel of Our Time'
+url: http://www.gutenberg.org/ebooks/8535
